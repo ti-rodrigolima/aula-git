@@ -1,1 +1,1 @@
-<?php echo 'Rodrigo Azevedo Lima - Moodle'; ?>
+<?php echo 'Rodrigo Azevedo Lima'; ?>
